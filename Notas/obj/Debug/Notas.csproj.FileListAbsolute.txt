@@ -1,0 +1,12 @@
+C:\Users\carlos.araujo\source\repos\Notas\Notas\obj\Debug\Notas.csproj.AssemblyReference.cache
+C:\Users\carlos.araujo\source\repos\Notas\Notas\obj\Debug\Notas.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlos.araujo\source\repos\Notas\Notas\obj\Debug\Notas.Form1.resources
+C:\Users\carlos.araujo\source\repos\Notas\Notas\obj\Debug\Notas.Properties.Resources.resources
+C:\Users\carlos.araujo\source\repos\Notas\Notas\obj\Debug\Notas.csproj.GenerateResource.cache
+C:\Users\carlos.araujo\source\repos\Notas\Notas\obj\Debug\Notas.csproj.CoreCompileInputs.cache
+C:\Users\carlos.araujo\source\repos\Notas\Notas\bin\Debug\Notas.exe.config
+C:\Users\carlos.araujo\source\repos\Notas\Notas\bin\Debug\Notas.exe
+C:\Users\carlos.araujo\source\repos\Notas\Notas\bin\Debug\Notas.pdb
+C:\Users\carlos.araujo\source\repos\Notas\Notas\obj\Debug\Notas.exe
+C:\Users\carlos.araujo\source\repos\Notas\Notas\obj\Debug\Notas.pdb
+C:\Users\carlos.araujo\source\repos\Notas\Notas\obj\Debug\Notas.Form2.resources
